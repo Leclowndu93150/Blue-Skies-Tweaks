@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.leclowndu93150.bstweaks.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "bstweaks.refmap.json",
+  "mixins": [
+    "HorizoniteForgeMixin",
+    "SnowCapOvenMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
