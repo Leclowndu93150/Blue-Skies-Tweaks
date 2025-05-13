@@ -1,0 +1,11 @@
+{
+  "type": "bstweaks:snowcap_freezing",
+  "ingredient": {
+    "item": "minecraft:dirt"
+  },
+  "result": {
+    "item": "minecraft:ice"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}
